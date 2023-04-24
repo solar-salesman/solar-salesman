@@ -1,6 +1,6 @@
-- 😎 Hi, I’m @solar-salesman
-- 👀 I sell solar-panels...
-- I'm on a journey to learn how to build great apps :)
+- 😎 Hi, I’m Solar-Salesman
+- I build billion $ startups in the solar-energy tech space.
+- I'm currently learning how to use GIT. 
 
 <!---
 solar-salesman/solar-salesman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
